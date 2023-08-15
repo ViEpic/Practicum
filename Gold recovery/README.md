@@ -1,4 +1,4 @@
-## [Восстановление золота из руды](gold-recovery.ipynb)
+## [Восстановление золота из руды](https://github.com/ViEpic/Practicum/blob/ad5463df1c7bb31a87591fa69e80377d495168c5/Gold%20recovery/gold-recovery.ipynb)
 
 
 ### Цель проекта
