@@ -1,4 +1,4 @@
-## [Прогнозирование оттока клиентов для телеком компании](telecom.ipynb)
+## [Прогнозирование оттока клиентов для телеком компании](https://github.com/ViEpic/Practicum/blob/51ff5194813c89fd1db58a665a0a9e15127e5a8c/Telecom/telecom.ipynb)
 
 
 ### Цель проекта
