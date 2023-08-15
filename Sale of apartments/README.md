@@ -1,4 +1,4 @@
-## [Исследование объявлений о продаже квартир](sale-of-apartments.ipynb)
+## [Исследование объявлений о продаже квартир](https://github.com/ViEpic/Practicum/blob/4e27465e0f3f8893d36bdd152ef673e5af136ea3/Sale%20of%20apartments/sale-of-apartments.ipynb)
 
 
 ### Цель проекта
