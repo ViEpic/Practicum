@@ -1,4 +1,4 @@
-## [Исследование популярности компьютерных игр](computer-games.ipynb)
+## [Исследование популярности компьютерных игр](https://github.com/ViEpic/Practicum/blob/904843b75c798578ab15356c7e1329c23f864eea/Computer%20games/computer-games.ipynb)
 
 
 ### Цель проекта
