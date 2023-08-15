@@ -1,4 +1,4 @@
-## [Прогнозирование заказов такси](forecasting-taxi-orders.ipynb)
+## [Прогнозирование заказов такси](https://github.com/ViEpic/Practicum/blob/91ef2f4f962d149f129eae22a3818e123f96cba9/Forecasting%20taxi%20orders/forecasting-taxi-orders.ipynb)
 
 
 ### Цель проекта
