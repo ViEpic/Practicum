@@ -1,4 +1,4 @@
-## [Определение стоимости автомобилей](determining-the-cost-of-cars.ipynb)
+## [Определение стоимости автомобилей](https://github.com/ViEpic/Practicum/blob/50c6722e6b6671b9bb70fd00564ed018516471ac/Determining%20the%20cost%20of%20cars/determining-the-cost-of-cars.ipynb)
 
 
 ### Цель проекта
