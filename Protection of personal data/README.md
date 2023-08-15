@@ -1,4 +1,4 @@
-## [Защита персональных данных клиентов](protection-of-personal-data.ipynb)
+## [Защита персональных данных клиентов](https://github.com/ViEpic/Practicum/blob/2f5a4c47aeae1ce78c2c7cabdd7d578f1677577e/Protection%20of%20personal%20data/protection-of-personal-data.ipynb)
 
 
 ### Цель проекта
