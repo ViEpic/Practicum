@@ -1,4 +1,4 @@
-## [Поиск токсичных комментариев](toxic-comments.ipynb)
+## [Поиск токсичных комментариев](https://github.com/ViEpic/Practicum/blob/30083bc59f387c515474f0ee27e34bd35d483659/Toxic%20comments/toxic-comments.ipynb)
 
 
 ### Цель проекта
