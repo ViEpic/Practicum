@@ -1,4 +1,4 @@
-## [Проект 5. Прогнозирование заказов такси](forecasting-taxi-orders.ipynb)
+## [Прогнозирование заказов такси](forecasting-taxi-orders.ipynb)
 
 
 ### Цель проекта
