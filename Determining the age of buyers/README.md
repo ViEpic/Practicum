@@ -1,4 +1,4 @@
-## [Проект 8. Определение возраста покупателей](determining-the-age-of-buyers--computer-vision.ipynb)
+## [Определение возраста покупателей](https://github.com/ViEpic/Practicum/blob/89de4d602c2fec937d8aaf699c7ecd5d55990cdf/Determining%20the%20age%20of%20buyers/determining-the-age-of-buyers--computer-vision.ipynb)
 
 
 ### Цель проекта
