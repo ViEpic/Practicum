@@ -1,4 +1,4 @@
-## [Проект 4. Определение стоимости автомобилей](determining-the-cost-of-cars.ipynb)
+## [Определение стоимости автомобилей](determining-the-cost-of-cars.ipynb)
 
 
 ### Цель проекта
