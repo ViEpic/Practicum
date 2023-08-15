@@ -1,4 +1,4 @@
-## [Проект 3. Защита персональных данных клиентов](protection-of-personal-data.ipynb)
+## [Защита персональных данных клиентов](protection-of-personal-data.ipynb)
 
 
 ### Цель проекта
